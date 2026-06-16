@@ -47,6 +47,8 @@ Following the model fitting phase, rigorous post-estimation diagnostic tests wer
 
 **📌 Key Takeaways:** While the linear model provides excellent foundational market insights, the presence of influential data points during major macro crises (e.g., March 2020 and October 2022) emphasizes that investors should incorporate non-linear risk management frameworks to safeguard against tail-risk and extreme market shocks.
 
+---
+
 ## 📂 Project Structure
 
 The repository is organized cleanly into data and notebook files to maintain reproducible research standards:
